@@ -280,11 +280,30 @@
 
 
 
-print = 20
+# print = 20
 
 
 # print(print)
-print("hello")
+# print("hello")
+# a= (1,5,2,5,(1,5,4,8,5))
+
+# b=a[4][2]
+# print(b)
+# print(b[1])
+
+# condition statement 
+# if
+# elif 
+# els
+# x= 0
+# while x<10:
+#     x+=1
+#     print(x)
+# print(x)
+
+
+
+
 
 
 
